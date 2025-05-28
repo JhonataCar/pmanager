@@ -70,16 +70,18 @@ src/
         ├── application.properties        # Configurações da aplicação
         └── static/                       # Arquivos estáticos (se necessário)
 
-
+```
 ## ▶️ Como Executar
-Você pode executar este projeto localmente com os seguintes passos:
+    Você pode executar este projeto localmente com os seguintes passos:
 ### **Pré-requisitos:**
+
 - **Java** 17 ou superior (recomendado: 21);
 - MySQL instalado, com um banco de dados criado (ex.: `pmanager_db`);
 - Gerenciador de dependências **Maven** (ou o wrapper `./mvnw` incluído);
 - **Git** para clonar este repositório.
 
-### **Instalação e Execução:**
+## **Instalação e Execução:**
+
 - 1 Clone o repositório:
 ``` bash
    git clone https://github.com/seu-usuario/pmanager.git
