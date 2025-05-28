@@ -1,0 +1,19 @@
+# Ignorar diretórios de build e temporários
+/target/
+*.log
+*.tmp
+
+# Ignorar configurações sensíveis
+application.yml
+application.properties
+*.env
+
+# Configurações da IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db

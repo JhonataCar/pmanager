@@ -1,0 +1,13 @@
+server:
+  servlet:
+    context-path: /
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:mysql://<IP_BD>:3306/<NOME_DO_BANCO>
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+app:
+  security:
+    masterApiKey: ${MASTER_API_KEY}
