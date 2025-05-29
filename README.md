@@ -72,7 +72,7 @@ src/
 
 ```
 ## ▶️ Como Executar
-    Você pode executar este projeto localmente com os seguintes passos:
+Você pode executar este projeto localmente com os seguintes passos:
 ### **Pré-requisitos:**
 
 - **Java** 17 ou superior (recomendado: 21);
